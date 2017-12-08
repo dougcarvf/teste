@@ -1,12 +1,11 @@
 {
-  "contatos": [
+  "posts": [
     {
-        "nome": "Bruno",
-        "telefone": "9999-2222",
-    },
-	    {
-        "nome": "Baaruno",
-        "telefone": "91999-2222",
-    },
-  ]
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
