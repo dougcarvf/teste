@@ -1,1 +1,24 @@
-{"users":[{"_id":"5a249dc616fe88001404f348","name":"Nathalia Moraes","email":"nathalia.moraes.teste@gmail.com","cpf":"30062092065","rg":"208926707","__v":0},{"_id":"5a2a9c1118ddf600145e4fa9","name":"Arthur Costa2","email":"root.arthur@gmail.com","cpf":"30062092091","rg":"208926791","__v":0}]}
+{
+    "users": [
+{
+    "users": [
+        {
+            "_id": "5a249dc616fe88001404f348",
+            "name": "Nathalia Moraes",
+            "email": "nathalia.moraes.teste@gmail.com",
+            "cpf": "30062092065",
+            "rg": "208926707",
+            "__v": 0
+        },
+        {
+            "_id": "5a2a9c1118ddf600145e4fa9",
+            "name": "Arthur Costa2",
+            "email": "root.arthur@gmail.com",
+            "cpf": "30062092091",
+            "rg": "208926791",
+            "__v": 0
+        }
+    ]
+}
+      ]
+}
