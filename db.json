@@ -3,16 +3,13 @@
 	{
         "nome": "Bruno",
         "telefone": "9999-2222",
-        "data": new Date()
     },
 	{
         "nome": "Sandra",
         "telefone": "9999-3333",
-        "data": new Date()
     },
 	{
         "nome": "Mariana",
         "telefone": "9999-9999",
-        "data": new Date()
     }
 }
