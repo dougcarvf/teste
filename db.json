@@ -1,15 +1,12 @@
-{ 
-"contatos": [
-	{
+{
+  "contatos": [
+    {
         "nome": "Bruno",
         "telefone": "9999-2222",
     },
-	{
-        "nome": "Sandra",
-        "telefone": "9999-3333",
+	    {
+        "nome": "Baaruno",
+        "telefone": "91999-2222",
     },
-	{
-        "nome": "Mariana",
-        "telefone": "9999-9999",
-    }
+  ]
 }
